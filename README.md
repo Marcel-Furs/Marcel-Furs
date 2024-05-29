@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcel 👋</h1>
-
+<h4>Passionate about Coding and Computer Science, hailing from Poland</h4>
 <p align="left">
 - 🎓 I'm a Silesian University Of Technology student<br>
 - 🔭 I’m currently working on project Queue<br>
