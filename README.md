@@ -1,11 +1,13 @@
-<h1 align="center">I'm a Silesian Univeristy Of Technology student</h1>
+<h1 align="center">I'm a Silesian University Of Technology student</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on **Queue**
+<p align="left">
+- 🔭 I’m currently working on **Queue**<br>
+- 🌱 I’m currently learning **rabbitMQ**<br>
+- 📫 How to reach me **marcel.furs21@gmail.com**
+</p>
 
-- 🌱 I’m currently learning **rabbitMQ**
-
-- 📫 How to reach me **marcel.furs21@gmail.cmm**
+<img align="right" src="https://giphy.com/gifs/programmer-weightlifting-coding-1rNWJst3K6tgs" width="300"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
