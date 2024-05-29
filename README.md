@@ -1,10 +1,10 @@
+<h1 align="center">Hi, I'm Marcel 👋</h1>
 <h1 align="center">I'm a Silesian University Of Technology student</h1>
-<h3 align="center">A passionate backend developer</h3>
 
 <p align="left">
-- 🔭 I’m currently working on **Queue**<br>
-- 🌱 I’m currently learning **rabbitMQ**<br>
-- 📫 How to reach me **marcel.furs21@gmail.com**
+- 🔭 I’m currently working on project Queue<br>
+- 🌱 I’m currently learning rabbitMQ<br>
+- 📫 How to reach me marcel.furs21@gmail.com
 </p>
 
 <img align="right" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="300"/>
