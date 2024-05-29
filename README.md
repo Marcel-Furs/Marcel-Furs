@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marcel 👋</h1>
 
 <p align="left">
-- I'm a Silesian University Of Technology student<br>
+- 🎓 I'm a Silesian University Of Technology student<br>
 - 🔭 I’m currently working on project Queue<br>
 - 🌱 I’m currently learning rabbitMQ<br>
 - 📫 How to reach me marcel.furs21@gmail.com
