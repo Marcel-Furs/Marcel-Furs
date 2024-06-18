@@ -7,7 +7,7 @@
 - 📫 How to reach me marcel.furs21@gmail.com
 </p>
 
-<img align="right" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="300"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
